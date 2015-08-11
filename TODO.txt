@@ -11,3 +11,4 @@ FPCD RATES
 http://www.iro.umontreal.ca/~lisa/pointeurs/breuleux+bengio_nc2011.pdf
 http://arxiv.org/pdf/1306.1091v5.pdf
 https://deeplearningworkshopnips2010.files.wordpress.com/2010/11/nips2010_deep_workshop.pdf
+GITHUB MORB
