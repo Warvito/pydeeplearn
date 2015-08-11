@@ -6,3 +6,8 @@
 Debugging wise/theano:
 5. Use theano nanguardmode for debugging nans in theano.
 6. Use test_value for theano tensor values to ensure that you get shape errors at compile time
+
+FPCD RATES
+http://www.iro.umontreal.ca/~lisa/pointeurs/breuleux+bengio_nc2011.pdf
+http://arxiv.org/pdf/1306.1091v5.pdf
+https://deeplearningworkshopnips2010.files.wordpress.com/2010/11/nips2010_deep_workshop.pdf
